@@ -23,6 +23,7 @@ class Calculator{
             nb1 = sc.nextInt();
             sc.nextLine();
 
+            System.out.print("Opération: [+ - * / % ] ");
             operation = sc.nextLine();
             sc.nextLine();
             
